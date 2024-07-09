@@ -1,0 +1,887 @@
+@media screen and (max-width:1440px){
+    .vocational-travels{
+        overflow-x: hidden;
+    }
+    .vt-hero-img {
+        width: 485px;
+        height: 461px;
+    }
+    h1 {
+        font-size:68px ;
+        width: 445px;
+        line-height: 90px;
+    }
+    .vt-desktop-menu ul li a{
+        font-style: 16px;
+    }
+    .vt-booknow-btn a {
+     font-size: 16px;
+    }
+    .vt-booknow-btn {
+        width: 150px;
+        height: 46px;
+    }
+    .vt-hero-content p {
+   font-size: 17px;
+   width: 478px;
+}
+.vt-category-content h2{
+    font-size: 47px;
+}
+.vt-category-content p{
+    font-size: 17px;
+}
+.vt-category-slide h5{
+    font-size: 20px;
+}
+.slide-img img{
+    width: 170px !important;
+    height: 230px;
+}
+.vt-hero-section{
+    padding: 0px 90px;
+}
+.vt-experience-content h4 {
+    font-size: 48px;
+    line-height: 60px;
+    width: 426px;
+    padding-top: 15px;
+}
+header
+{
+    padding: 0px 90px;
+}
+.vt-experience-box p{
+    font-size: 18px;
+}
+.vt-first-box, .vt-second-box, .vt-third-box {
+    width: 160px;
+    height: 170px;
+}
+.vt-first-box h5, .vt-second-box h5, .vt-third-box h5 {
+font-size: 37px;
+}
+.vt-experience {
+    padding: 100px 90px;
+}
+.vt-experience-content p {
+    font-size: 16px;
+    line-height: 29px;
+    width: 650px;
+    padding: 13px 0px;
+}
+.vt-first-box h6, .vt-second-box h6, .vt-third-box h6 {
+    font-size: 18px;
+}
+.vt-experience-img {
+    width: 444px;
+    height: 477px;
+}
+.vt-half-day-tour, .vt-district-tour, .vt-fullday-tour {
+    width: 350px;
+}
+.vt-tour-section h3 {
+    font-size: 35px;
+}
+.vt-tour-title h5 {
+    font-size: 48px;
+}
+.halfday-content p, .fullday-content, .district-content p {
+    font-size: 20px;
+}
+.halfday-content ul li, .fullday-content ul li, .district-content ul li {
+    font-size: 18px;
+}
+.vt-half-day-tour, .vt-district-tour, .vt-fullday-tour {
+    padding: 40px;
+}
+.halfday-content {
+    padding-top: 15px;
+}
+.vt-category-section {
+    width: 100%;
+    padding: 0px 90px 50px;
+}
+.vt-tour-box {
+    width: 100%;
+    display: grid;
+    grid-template-columns: repeat(3,1fr);
+    justify-content: center;
+    column-gap: 40px;
+    padding: 0px 90px;
+}
+.all-catagorys {
+    display: grid;
+    grid-template-columns: repeat(3,370px);
+}
+.vt-tour-box button a {
+    font-size: 17px;
+}
+.vt-tour-box button {
+    width: 169px;
+    height: 54px;
+}
+.district-button, .fullday-button, .halfday-button {
+    margin-left: 44px;
+    margin-top: 31px;
+}
+.fullday-button {
+    margin-top: 259px;
+}
+.about-img {
+    width: 330px;
+    height: 425px;
+    margin-top: 100px;
+}
+.about-content h4 {
+    font-size: 48px;
+    line-height: 60px;
+}
+.about-content h4::before {
+    width: 67px;
+    height: 6px;
+    top: -13px;
+}
+.vt-about-content-container p {
+    font-size: 16px;
+}
+.vt-about-content-container {
+    width: 520px;
+    height: 368px;
+    padding: 15px;
+}
+.about-section {
+    padding: 140px 90px;
+    column-gap: 200px;
+}
+.vt-gallery-title h3 {
+    font-size: 48px;
+}
+.vt-aboutus-img {
+    width: 445px;
+    height: 320px;
+    border-radius: 45px;
+}
+.vt-aboutus-img img{
+    border-radius: 86px;
+}
+.vt-aboutus-page {
+    column-gap: 185px;
+}
+.vt-aboutus-content h5 {
+    font-size: 48px;
+}
+.vt-about-review h6 {
+    font-size: 15px;
+}
+.vt-aboutus-content {
+     padding-top: 0px; 
+}
+.aboutus-address p {
+    font-family: 'Poppins-Regular';
+    font-weight: 400;
+    font-size: 19px;
+}
+/* readmore */
+.vt-halfday-tour h1, .vt-full-day-tour h1, .vt-dis-trict-tour h1 {
+    font-size: 60px;
+    width: 100%;
+}
+.vt-halfday-tour-package, .vt-fullday-tour-package, .vt-district-tour-package {
+    grid-template-columns: repeat(3,1fr);
+    gap: 70px;
+}
+.tour-flex-box {
+    padding: 20px 10px 10px;
+}
+.vt-halfdaytour-box, .vt-fulldaytour-box, .vt-districttour-box {
+    width: 350px;
+    min-height: 430px;
+}
+.half-day-img, .full-day-img, .district-img {
+    width: 350px;
+    height:220px;
+}
+section.vt-halfday-tour, section.vt-full-day-tour, section.vt-dis-trict-tour {
+    padding: 150px 70px 20px;
+}
+.vt-halfdaytour-box h4, .vt-fulldaytour-box h4, .vt-districttour-box h4 {
+    margin-top: 10px;
+    font-size: 13px;
+}
+.callnow {
+    width: 100px;
+    height: 36px;
+}
+.callnow a{
+font-size: 13px;
+}
+}
+/* 1024 responsive */
+
+@media screen and (max-width:1200px){
+    .vt-halfdaytour-box, .vt-fulldaytour-box, .vt-districttour-box {
+        width: 430px;
+        min-height: 475px;
+    }
+    .half-day-img, .full-day-img, .district-img {
+        width: 430px;
+        height: 260px;
+    }
+    .vt-halfday-tour-package, .vt-fullday-tour-package, .vt-district-tour-package {
+        gap: 70px;
+        grid-template-columns: repeat(2,431px)!important;
+    }
+    .vt-aboutus-img {
+        width: 590px;
+        height: 320px;
+    }
+    .vt-aboutus-page {
+        column-gap: 150px!important;
+        padding: 120px 60px;
+    }
+    /* .callnow {
+        margin-left: 323px;
+        margin-top: 26px;
+    } */
+    h1 {
+        font-size: 60px;
+        width: 445px;
+        line-height: 86px;
+    }
+    .vt-hero-content p {
+        font-size: 15px;
+    }
+    .vt-hero-img {
+        width: 520px;
+        height: 430px;
+    }
+    .all-catagorys {
+        display: grid;
+        grid-template-columns: repeat(3,280px);
+    }
+    .vt-half-day-tour, .vt-district-tour, .vt-fullday-tour {
+        width: 290px;
+    }
+    .vt-half-day-tour, .vt-district-tour, .vt-fullday-tour {
+        padding: 10px;
+    }
+    .halfday-title,.fullday-title,.district-title {
+        padding-top: 15px;
+    }
+    .vt-tour-section h3 {
+        font-size: 25px;
+    }
+    .halfday-content p, .fullday-content, .district-content p {
+        font-size: 18px;
+    }
+    .halfday-content ul li, .fullday-content ul li, .district-content ul li {
+        font-size: 16px;
+    }
+    .vt-tour-box button {
+        width: 150px;
+        height: 50px;
+    }
+    .vt-hero-img.aos-init.aos-animate {
+        width: 650px;
+        height: 450px;
+    }
+ .halfday-button {
+        margin-left: 43px;
+        margin-top: 58px;
+        margin-bottom: 10px;
+    }
+    .fullday-button {
+        margin-top: 248px;
+    }
+    .district-button {
+        margin-left: 44px;
+        margin-top: 4px;
+    }
+    /* .vt-aboutus-img {
+        width: 100%;
+        height: 100%;
+        border-radius: 100px;
+    } */
+    .vt-aboutus-page {
+        column-gap: 209px;
+        padding: 120px 60px;
+    }
+    .vt-aboutus-content h5 {
+        font-size: 42px;
+    }
+    .aboutus-address img {
+        width: 22px;
+        height: 22px;
+    }
+    .address a {
+        column-gap: 35px;
+    }
+    .aboutus-address p {
+        font-size: 16px;
+    }
+    .address {
+        padding-top: 25px;
+        display: flex;
+        column-gap: 35px;
+    }
+    .vt-gallery-title h3 {
+        font-size: 41px;
+    }
+    .vt-gallery-title p {
+        font-size: 14px;
+    }
+    .footer-left p {
+        font-size: 17px;
+    }
+    .footer-right a {
+        font-size: 14px;
+        padding-top: 15px;
+    }
+    .address-icon {
+        height: 25px;
+        display: flex;
+        column-gap: 15px;
+        margin-top: 73px;
+    }
+    .footer-left p {
+        font-size: 16px;
+        padding-top: 32px;
+    }
+    .footer-right p {
+        font-size: 19px;
+    }
+    .vt-tour-title h5 {
+        font-size: 41px;
+    }
+    .about-img {
+        width: 300px;
+        height: 416px;
+        margin-top: 131px;
+    }
+    .about-section {
+        padding: 60px 55px;
+        column-gap: 111px;
+    }
+    .vt-about-content-container {
+        width: 435px;
+        position: relative;
+        height: 395px;
+    }
+    .vt-about-btn {
+        display: flex;
+        column-gap: 16px;
+        float: right;
+        position: absolute;
+        /* left: 818px; */
+        right: 18px;
+        bottom: 40px;
+    }
+    .about-content h4 {
+        font-size: 42px;
+        line-height: 52px;
+    }
+    .about-left-arrow, .about-right-arrow {
+        width: 30px;
+        height: 30px;
+    }
+   .vt-experience-content h4{
+    font-size: 40px;
+    line-height: 50px;
+    width: 426px;
+    padding-top: 9px;
+}
+.vt-experience-content p {
+    font-size: 14px;
+    line-height: 25px;
+    width: 436px;
+}
+.vt-first-box, .vt-second-box, .vt-third-box {
+    width: 130px;
+    height: 130px;
+}
+.vt-first-box h5, .vt-second-box h5, .vt-third-box h5 {
+    font-size: 30px;
+}
+.vt-first-box h6, .vt-second-box h6, .vt-third-box h6 {
+    font-size: 15px;
+    /* text-align: center; */
+    width: 123px;
+}
+.vt-experience {
+    padding: 100px 50px;
+}
+.category-left-arrow, .category-right-arrow {
+    width: 35px;
+    height: 35px;
+}
+.vt-hero-section {
+    padding: 0px 55px;
+}
+header {
+    padding: 0px 45px;
+}
+.vt-desktop-menu ul li a {
+    font-size: 16px;
+}
+.vt-category-section {
+    width: 100%;
+    padding: 0px 55px;
+}
+.filter-btns button {
+    width: 118px;
+    height: 50px;
+}
+.vt-about-review {
+    padding-top: 18px;
+}
+}
+
+
+
+@media screen and (max-width:991px) {
+    .vt-halfday-tour-package, .vt-fullday-tour-package, .vt-district-tour-package {
+        gap: 50px;
+        grid-template-columns: repeat(1,457px)!important;
+    }
+    .footer-section {
+        padding: 80px 20px 30px;
+    }
+    .vt-halfdaytour-box h4, .vt-fulldaytour-box h4, .vt-districttour-box h4{
+        font-size: 16px;
+    }
+     .vt-desktop-menu{
+       height: 100vh;
+        flex-direction: column;
+        justify-content: center;
+        position: relative;
+    } 
+    .vt-desktop-menu {
+        display: none;
+    }
+    .vt-button{
+        display: none;
+    }
+    .book-btn{
+        display: block;
+    }
+    .vt-hero-img.aos-init.aos-animate {
+        width: 520px;
+        height: 457px;
+    }
+
+    .vt-visit-btn {
+        width: 100%;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+    }
+     .vt-desktop-menu {
+        width: 100%;
+        height: 100%;
+         position: fixed; 
+        top: 0px;
+        left: 0px;
+        background-color: lightyellow;
+        z-index: 1;
+    }  
+    .vt-logo{
+        position: absolute;
+        z-index: 3;
+    }
+    .footer-left p {
+        font-size: 16px;
+        padding-top: 57px;
+    }
+     .vt-desktop-menu ul li a{
+        display: inherit;
+        text-align: center;
+        padding-top: 30px;
+        font-size: 24px;
+    } 
+       .ham-menu{
+        /* position: fixed; */
+        z-index: 2; 
+    }   
+     .ham-menu{
+        display: block;
+        font-size: 35px;
+    }
+    header {
+        width: 100%;
+        align-items: center;
+        justify-content: space-between;
+        padding: 0px 15px;
+    }
+    svg.ham.ham6 {
+        width: 57px;
+    }
+    .vt-hero-img {
+        margin-top: 100px;
+        width: 419px;
+        height: 392px;
+    }
+     .vt-experience {
+        padding: 50px 75px;
+        flex-direction: column-reverse;
+        row-gap: 35px;
+    } 
+    .vt-experience-img {
+        width: 435px;
+        height: 460px;
+    }
+    
+    .vt-hero-section {
+        flex-direction: column-reverse;
+    /* row-gap: 40px; */
+    }
+    h1 {
+        font-size: 50px;
+        width:100%;
+        line-height: 70px;
+    }
+     /* .vt-aboutus-page {
+        display: block; 
+    } */
+    .vt-tour-box {
+   
+     grid-template-columns: repeat(1,1fr);
+}
+.vt-hero-content p{
+    width: 100%;
+}
+.vt-aboutus-page {
+    display: block;
+}
+.all-catagorys {
+    display: grid;
+    grid-template-columns: repeat(2,308px);
+}
+.filter-btns button {
+    width: 98px;
+    height: 50px;
+    font-size: 15px;
+}
+.vt-half-day-tour, .vt-district-tour, .vt-fullday-tour {
+    padding: 32px;
+}
+.vt-tour-box {
+    grid-template-columns: repeat(1,419px);
+}
+.vt-half-day-tour, .vt-district-tour, .vt-fullday-tour {
+    width: 321px;
+}
+.vt-district-tour,.vt-fullday-tour, .vt-half-day-tour{
+    margin-top: 40px;
+}
+.fullday-button {
+    margin-top: 150px;
+}
+/* .vt-tour-box button {
+    width: 135px;
+    height: 45px;
+    margin-left: 14px;
+} */
+.vt-category-content h2 {
+    font-size: 40px;
+}
+.vt-category-content p {
+    font-size: 16px;
+}
+.vt-hero-content {
+    width: 70%;
+    margin: auto;
+    text-align: center;
+}
+.vt-aboutus-img {
+    width: 400px;
+    height: 270px;
+    border-radius: 79px;
+}
+.vt-aboutus-page {
+    column-gap: 70px!important;
+}
+.vt-aboutus-img {
+    width: 490px;
+}
+.vt-aboutus-page {
+    display: flex;
+    column-gap: 100px;
+    padding: 100px 60px;
+}
+.vt-aboutus-content h5 {
+    font-size: 39px;
+}
+.aboutus-address p {
+    font-size: 14px;
+}
+.address a {
+    column-gap: 22px;
+}
+.address {
+    column-gap: 22px;
+}
+.vt-experience-content h4 {
+    font-size: 40px;
+    line-height: 50px;
+    width: 100%;
+}
+.vt-experience-box {
+    display: flex;
+    column-gap: 50px;
+}
+.vt-category-section {
+    width: 100%;
+    padding: 0px 55px;
+}
+.vt-experience-content p {
+    font-size: 15px;
+    line-height: 34px;
+    width: 100%;
+}
+.vt-first-box, .vt-second-box, .vt-third-box {
+    width: 136px;
+    height: 130px;
+}
+.about-section {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    padding: 0px 15px 80px;
+}
+.halfday-content ul li, .fullday-content ul li, .district-content ul li {
+    margin-left: 27px;
+    padding-top: 26px;
+}
+.vt-half-day-tour, .vt-district-tour, .vt-fullday-tour {
+    width: 420px;
+}
+.district-button, .fullday-button, .halfday-button {
+    margin-left: 82px;
+}
+.vt-tour-box button {
+    width: 148px;
+    height: 53px;
+    margin-left: 26px;
+}
+.about-img {
+    width: 337px;
+    height: 419px;
+    margin-top: 95px;
+}
+.filter-btns {
+    padding: 38px 40px 0px;
+}
+}
+
+
+/* mobile */
+@media screen and (max-width:650px){
+    .vt-halfday-tour h1, .vt-full-day-tour h1, .vt-dis-trict-tour h1 {
+        font-size: 44px;
+        width: 100%;
+    }
+    .vt-halfdaytour-box, .vt-fulldaytour-box, .vt-districttour-box {
+        width: 325px;
+        min-height: 404px;
+    }
+    .half-day-img, .full-day-img, .district-img {
+        width: 327px;
+        height: 230px;
+    }
+    .vt-halfday-tour-package, .vt-fullday-tour-package, .vt-district-tour-package {
+        gap: 50px;
+        grid-template-columns: repeat(1,330px)!important;
+    }
+    .tour-flex-box {
+        padding: 16px 15px 20px;
+    }
+    .tour-flex-box h6 {
+        font-size: 18px;
+    }
+    .tour-flex-box img {
+        width: 25px;
+        height: 25px;
+    }
+    /* .callnow {
+        margin-left: 183px;
+        margin-top: 29px;
+    } */
+    h5.length-title {
+        font-size: 18px;
+    }
+    .vt-hero-img {
+        margin-top: 50px;
+        width: 319px;
+        height: 323px;
+    }
+    .vt-half-day-tour, .vt-district-tour, .vt-fullday-tour {
+        width: 300px;
+    }
+    .halfday-content ul li, .fullday-content ul li, .district-content ul li {
+        margin-left: 23px;
+        padding-top: 15px;
+    }
+    .vt-tour-box {
+        grid-template-columns: repeat(1,298px);
+    }
+    .district-button, .fullday-button, .halfday-button {
+        margin-left: 16px;
+    }
+    .vt-tour-title h5 {
+        font-size: 35px;
+    }
+    .vt-logo {
+        position: absolute;
+        left: 5%;
+    }
+    header {
+        width: 100%;
+        align-items: center;
+        justify-content: space-between;
+        padding: 0px 15px;
+    }
+    h1 {
+        font-size: 40px;
+        width: 100%;
+        line-height: 56px;
+    }
+    .vt-hero-content p {
+        width:100%;
+        font-size: 15px;
+        line-height: 29px;
+    }
+    .vt-experience-box {
+        column-gap: 20px;
+    }
+    .vt-category-content h2 {
+        font-size: 35px;
+    }
+    .vt-category-section {
+        width: 100%;
+        padding: 60px 15px;
+    }
+    .vt-category-content-container {
+        width: 100%;
+        display: flex;
+        flex-direction: column;
+        row-gap: 20px;
+    }
+    .about-img {
+        width: 100%;
+        height: 100%;
+    }
+    .all-catagorys {
+        display: grid;
+        grid-template-columns: repeat(1,300px);
+        padding-top: 50px;
+    }
+    .vt-experience-img {
+        width: 100%;
+        height: 100%;
+    }
+    .vt-category-content p {
+        width: 100%;
+        padding-top: 15px;
+    }
+    .vt-hero-content {
+        padding: 0px 15px;
+        width: 100%;
+    }
+    .vt-hero-section {
+        padding: 0px 15px;
+        margin-top: 100px;
+    }
+    .vt-aboutus-page {
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        flex-direction: column-reverse;
+        padding: 50px 15px;
+        row-gap: 25px;
+    }
+    .address-icon {
+        margin-top: 20px;
+    }
+    .footer-section {
+        display: flex;
+        flex-direction: column;
+        row-gap: 27px;
+        padding: 40px 0px;
+    }
+    .vt-gallery-title h3 {
+        font-size: 35px;
+    }
+    .vt-gallery-title {
+        padding: 0px 15px;
+    }
+    .filter-btns {
+        display: grid;
+        grid-template-columns: repeat(3,95px);
+        row-gap: 12px;
+    }
+    .filter-btns button {
+        width: 90px;
+        height: 44px;
+        font-size: 14px;
+    }
+    .vt-experience-content p {
+        width: 100%;
+    }
+    .vt-experience-content h4 {
+        font-size: 35px;
+        line-height: 50px;
+        width: 100%;
+    }
+    .vt-first-box, .vt-second-box, .vt-third-box {
+        width: 96px;
+        height: 113px;
+    }
+    .vt-first-box h6, .vt-second-box h6, .vt-third-box h6 {
+        width: 100%;
+    }
+    .about-content {
+        padding-top: 40px;
+    }
+    .vt-about-content-container {
+        width: 323px;
+        height: 488px;
+        margin: auto;
+    }
+    .about-content h4 {
+        font-size: 41px;
+        line-height: 52px;
+        padding-bottom: 12px;
+        width: 100%;
+    }
+    .vt-hero-section{
+        height: 100%;
+
+    }
+    section.vt-halfday-tour, section.vt-full-day-tour, section.vt-dis-trict-tour {
+        padding: 150px 20px 20px;
+    }
+    .vt-aboutus-img {
+        width: 100%;
+        height: 100%;
+    }
+    .vt-aboutus-img img{
+        border-radius: 50px;
+    }
+    .vt-hero-img.aos-init.aos-animate {
+        width: 100%;
+        height: 100%;
+    }
+    .about-section {
+        padding: 0px 20px 80px;
+    }
+    .vt-halfdaytour-box h4, .vt-fulldaytour-box h4, .vt-districttour-box h4 {
+        font-size: 16px;
+    }
+    .vt-halfdaytour-box:hover, .vt-fulldaytour-box:hover, .vt-districttour-box:hover{
+        transform: scale(1, 1)!important;
+        box-shadow: none;
+    }
+    
+} 
